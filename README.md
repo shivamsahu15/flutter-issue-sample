@@ -1,16 +1,10 @@
-# gallery
+**On flutter 2.0.6
 
-A new Flutter project.
+![Screenshot from 2021-07-26 13-48-16](https://user-images.githubusercontent.com/68904455/126959022-0845661e-11ac-4b99-a593-52713b417e91.png)
 
-## Getting Started
+**On flutter 2.2.3**
 
-This project is a starting point for a Flutter application.
+![Screenshot from 2021-07-26 13-52-04](https://user-images.githubusercontent.com/68904455/126959084-b599ee32-0d08-41ff-93b4-3877939f95db.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
